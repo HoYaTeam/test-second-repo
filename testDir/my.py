@@ -1,0 +1,1 @@
+print("Elvis is the king of rock and roll!")
